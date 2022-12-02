@@ -7,5 +7,6 @@ My name is Allan Yin and I'm a computer science student from the University of W
 🌱 Interests:
 * Machine Learning
 * Artificial Intelligence 
+* Finance 
 
 💬 Reach me by email or LinkedIn! allanyin17@gmail.com | www.linkedin.com/in/allan-yin
