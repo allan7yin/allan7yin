@@ -5,6 +5,7 @@ My name is Allan Yin and I'm a computer science student from the University of W
 * Software Engineer intern at RBCx - Full-stack development working on internal applications for RBC, focused on centralizing many company resources [Toronto. Fall 2022]
 
 🌱 Interests:
+* Learning new things!
 * Machine Learning
 * Artificial Intelligence 
 * Finance 
