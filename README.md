@@ -2,7 +2,8 @@
 My name is Allan Yin and I'm a computer science student from the University of Waterloo, in Canada. Here's some info about me!
 
 ⚡ Work experience: 
-* Software Engineer intern at RBCx - Full-stack development working on internal applications for RBC, focused on centralizing many company resources [Toronto. Fall 2022]
+* Software Engineer intern at RBC - Full-stack development working on internal applications for RBC, focused on centralizing many company resources [Toronto. Fall 2022]
+* Software Engineer intern at Bank of America (current)
 
 🌱 Interests:
 * Learning new things!
