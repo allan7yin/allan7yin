@@ -11,4 +11,8 @@ My name is Allan Yin and I'm a computer science student from the University of W
 * Machine Learning + Deep Learning 
 * Staying up to date with relevant AI research
 
+🔭 Current Activity:
+* Taking co250 (Introduction to Optimization)
+* Learning deep learning and neural networks with Keras and TensorFlow
+
 💬 Reach me by email or LinkedIn! allanyin17@gmail.com | www.linkedin.com/in/allan-yin
