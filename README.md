@@ -1,5 +1,5 @@
 #### Hi there! 👋
-My name is Allan Yin and I'm a computer science student from the University of Waterloo, in Canada. Here's some info about me!
+My name is「Allan Yin」 and I'm a computer science student from the University of Waterloo, in Canada. Here's some info about me!
 
 ⚡ Work experience: 
 * Software Engineer intern at RBC - Full Stack development working on internal applications for RBC, focused on centralizing many company resources [Toronto. Fall 2022]
