@@ -13,5 +13,6 @@ My name is「Allan Yin」 and I'm a computer science student from the University
 
 🔭 Current Activity:
 * Learning deep learning and neural networks with Keras and TensorFlow
+* iOS development with Swift and SwiftUI
 
 💬 Reach me by email or LinkedIn! allanyin17@gmail.com | www.linkedin.com/in/allan-yin
