@@ -1,3 +1,5 @@
+![929202](https://github.com/allan7yin/allan7yin/assets/66652405/dbed52c8-41e3-44ed-a3ca-78c916bf8581)
+
 #### Hi there! 👋
 My name is「Allan Yin」 and I'm a computer science student from the University of Waterloo, in Canada. Here's some info about me!
 
@@ -17,4 +19,4 @@ My name is「Allan Yin」 and I'm a computer science student from the University
 
 💬 Reach me by email or LinkedIn! allanyin17@gmail.com | www.linkedin.com/in/allan-yin
 
-![929202](https://github.com/allan7yin/allan7yin/assets/66652405/dbed52c8-41e3-44ed-a3ca-78c916bf8581)
+
