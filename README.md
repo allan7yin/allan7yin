@@ -31,7 +31,6 @@ My name is「Allan Yin」 and I'm a computer science student from the University
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Fun Stats
-[![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan7yin)](https://github.com/allan7yin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan7yin&layout=compact)](https://github.com/allan7yin)
 
 
