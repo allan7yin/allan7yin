@@ -32,6 +32,7 @@ My name is「Allan Yin」 and I'm a computer science student from the University
 
 ### Fun Stats
 ![](https://raw.githubusercontent.com/allan7yin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/allan7yin/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 
