@@ -35,6 +35,7 @@ My name is「Allan Yin」 and I'm a computer science student from the University
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="graph" alt="graph" width="40" height="40"/>&nbsp;
 </div>
 
 ### Other Tools
@@ -42,8 +43,11 @@ My name is「Allan Yin」 and I'm a computer science student from the University
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Psql" alt="Psql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="msql" **alt="msql" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="msql" **alt="msql" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="msql" **alt="msql" width="40" height="40"/>
+    <img src="    https://www.google.com/search?sxsrf=APwXEdc-x1gjMqKqx-YstREG0Jh9bb3zYg:1687305799757&q=swagger+icon&tbm=isch&sa=X&ved=2ahUKEwiQqcn2h9P_AhWYFVkFHb1pCw4Q0pQJegQIDhAB&biw=1512&bih=816&dpr=2#imgrc=RhIR767F3twm5M" title="swagger" **alt="swagger" width="40" height="40"/>
+
+
+<div>
     
 
 
