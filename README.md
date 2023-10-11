@@ -17,9 +17,9 @@
 I'm a computer science student @ the University of Waterloo, in Canada!
 
 🌱 Interests:
-* Quantitaive Applications of Software
+* Quantitative Applications of Software
 * Full-stack Development 
-* Machine Learning + Deep Learning 
+* Machine Learning + Deep Learning
 * Staying up to date with relevant AI research
 
 ⚡ Current Activity:
