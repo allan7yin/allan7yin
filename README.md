@@ -21,10 +21,6 @@ I'm a computer science student @ the University of Waterloo, in Canada!
 * Full-stack Development 
 * Machine Learning + Deep Learning
 * Staying up to date with relevant AI research
-
-⚡ Current Activity:
-* Learning deep learning and neural networks with Keras and TensorFlow
-* iOS development with Swift and SwiftUI
   
 Don't hesitate to contact me regarding my experiences or for friendly conversations – let's connect!
  
