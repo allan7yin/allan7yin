@@ -11,7 +11,6 @@
 
 <div> 
   <hr> 
-<img alt="Coder"  width = 35% padding = "5px" margin-left = "10px" src="https://github.com/allan7yin/allan7yin/assets/66652405/c612b737-f593-4574-8b6e-5c191c5e7c09" align="right"/>
 </div> 
 
 I'm a computer science student @ the University of Waterloo, in Canada!
@@ -21,7 +20,10 @@ I'm a computer science student @ the University of Waterloo, in Canada!
 * Full-stack Development 
 * Machine Learning + Deep Learning
 * Staying up to date with relevant AI research
-  
+
+⚡ Current:
+* Researching + Creating computer vision model to detect sign language alphabets and synthesize sentences with a NLP language model (Sign language Video Captioning) 
+
 Don't hesitate to contact me regarding my experiences or for friendly conversations – let's connect!
  
 <hr> 
