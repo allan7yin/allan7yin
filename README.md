@@ -10,10 +10,10 @@
 I'm a computer science student @ the University of Waterloo, in Canada!
 
 🌱 Interests:
+* Building cool products 😎
 * Full-stack Development
 * Infrasturcture + Cloud
 * Machine Learning + Deep Learning
-* Staying up to date with relevant AI research
 
 Don't hesitate to contact me regarding my experiences or for friendly conversations – let's connect!
  
