@@ -1,4 +1,4 @@
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi there 👋, I'm 「Allan」 </h1></summary>
   </ul>
