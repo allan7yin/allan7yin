@@ -16,6 +16,7 @@ I'm a computer science student @ the University of Waterloo, in Canada!
 🌱 Interests:
 * Rust 🦀 (Learning 😁)
 * Building cool products 😎
+* Distributed Systems 
 * Infrasturcture + Cloud
 * Machine Learning + Deep Learning
 
