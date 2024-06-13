@@ -13,7 +13,7 @@
 
 I'm a computer science student @ the University of Waterloo, in Canada!
 
-🌱 Interests:
+🌱[Interests](https://allan7yin.github.io/):
 * Rust 🦀 (Learning 😁)
 * Building cool products 😎
 * Distributed Systems 
