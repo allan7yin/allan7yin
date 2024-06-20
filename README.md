@@ -4,16 +4,10 @@
   </ul>
 </div>
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=allanyin17&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=allanyin17&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
 
+**SWE @ Capital One**, computer science student @ the University of Waterloo, in Canada!
 
-I'm a computer science student @ the University of Waterloo, in Canada!
-
-🌱[Interests](https://allan7yin.github.io/):
+🌱Interests:
 * Rust 🦀 (Learning 😁)
 * Building cool products 😎
 * Distributed Systems 
