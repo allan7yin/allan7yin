@@ -7,6 +7,18 @@
 
 **SWE @ Capital One**, computer science student @ the University of Waterloo, in Canada!
 
+```Cpp
+#include <string>
+#include <vector>
+
+class Allan : public Student {
+private:
+    int age = 21;
+    std::string favourite_quote = "Flowers bloom as long as the tree doesn't give in to the wind";
+    std::vector<std::string> hobbies = { "Coding", "Tennis", "Traveling" };
+};
+```
+
 🌱Interests:
 * High Performance Systems with C++ ⚡💻💪
 * Building cool products 🛠️🚀😎
