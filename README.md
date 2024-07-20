@@ -16,6 +16,7 @@ private:
     int age = 21;
     std::string favourite_quote = "Flowers bloom as long as the tree doesn't give in to the wind";
     std::vector<std::string> hobbies = { "Coding", "Tennis", "Traveling" };
+    std::string blog = "Recently started a blog: https://allan7yin.github.io/";
 };
 ```
 
