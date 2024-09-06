@@ -21,7 +21,7 @@ private:
 ```
 
 🌱Interests:
-* High Performance Systems with C++ ⚡💻💪
+* Systems Programming with C++ ⚡💻💪
 * Building cool products 🛠️🚀😎
 * Distributed Systems 🌐🔗📡
 * Infrasturcture + Cloud 🏗️☁️🔧
