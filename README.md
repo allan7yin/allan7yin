@@ -1,25 +1,11 @@
 <div id="user-content-toc" align="center">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there 👋, I'm 「Allan」 </h1></summary>
+    <summary><h1 style="display: inline-block">Hi there 👋, I'm Allan </h1></summary>
   </ul>
 </div>
 
 
 **SWE @ Capital One**, computer science student @ the University of Waterloo, in Canada!
-
-```Cpp
-#include <string>
-#include <vector>
-
-class Allan : public Student {
-private:
-    int age = 21;
-    std::string favourite_quote = "Flowers bloom as long as the tree doesn't give in to the wind";
-    std::vector<std::string> hobbies = { "Coding", "Tennis", "Traveling" };
-    std::string blog = "Recently started a blog: https://allan7yin.github.io/";
-};
-```
-
 🌱Interests:
 * Systems Programming with C++ ⚡💻💪
 * Building cool products 🛠️🚀😎
