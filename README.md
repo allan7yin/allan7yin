@@ -7,11 +7,11 @@
 
 **SWE @ Capital One**, computer science student @ the University of Waterloo, in Canada!
 🌱Interests:
-* Systems Programming⚡💻💪
-* Building cool products 🛠️🚀😎
+* Building high performance software ⚡💻💪
 * Distributed Systems 🌐🔗📡
 * Infrastructure + Cloud 🏗️☁️🔧
 * Machine Learning + Deep Learning 🤖🧠📊
+* Building cool products 🛠️🚀😎
 
 Don't hesitate to contact me regarding my experiences or for friendly conversations – let's connect!
  
