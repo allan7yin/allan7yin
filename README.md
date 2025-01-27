@@ -5,5 +5,5 @@
 </div>
 
 
-I'm an imcoming SWE @ **Amazon** and 4th year Computer science student @ the **University of Waterloo**, in Canada! Currently, I'm diving deeper in distributed systems and learning Rust 🦀
+I'm an imcoming SWE @ **Amazon** and 4th year Computer science student @ the **University of Waterloo**, in Canada!
 
