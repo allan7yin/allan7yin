@@ -5,5 +5,5 @@
 </div>
 
 
-I'm an imcoming SWE @ **Amazon** and 4th year Computer science student @ the **University of Waterloo**, in Canada!
+I'm an imcoming SWE @ **X (Twitter)** and 4th year Computer science student @ the **University of Waterloo**, in Canada!
 
