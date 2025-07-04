@@ -5,5 +5,5 @@
 </div>
 
 
-Currently, I'm @ **X (Twitter)**, incoming @ **AWS**, and 4th year Computer science student @ the **University of Waterloo** in Canada!
+Currently, I'm @ **X (Twitter)**, incoming @ **AWS**, and Computer science student @ the **University of Waterloo** in Canada!
 
