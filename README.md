@@ -5,5 +5,5 @@
 </div>
 
 
-Currently, I'm a MTS @ **xAI** and Computer science student @ the **University of Waterloo** in Canada!
+Currently, I'm a SWE @ **xAI** and Computer science student @ the **University of Waterloo** in Canada!
 
