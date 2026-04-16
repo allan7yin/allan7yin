@@ -5,5 +5,5 @@
 </div>
 
 
-Currently, I'm a Computer science student @ the **University of Waterloo** in Canada and incoming swe @**uber**!
+Currently, I'm a Computer science student @ the **University of Waterloo** in Canada and incoming SWE @**uber**!
 
